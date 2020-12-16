@@ -1,0 +1,2 @@
+
+fig.autofmt_xdate()
